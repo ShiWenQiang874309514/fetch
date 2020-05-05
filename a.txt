@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 aaaa:@ aaaaaa edit by local
+=======
+aaaa:@ aaaaaa edit by gitgub
+>>>>>>> ed7f66eb6d3ffc9a668517d8028131848709450e
 bbb
 =======
 aaaa:edit by github second
